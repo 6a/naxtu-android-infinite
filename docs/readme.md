@@ -1,3 +1,3 @@
-# NAXTU
-## Android Infinite
-### Official site
+### Navigation
+
+- [Privacy Policy](./privacy-policy/).
