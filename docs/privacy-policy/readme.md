@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Android Infinite** is developed and maintained by us (NAXTU) and whose registered address is Kingston University London, UK NAXTU are committed to protecting and preserving the privacy of our users, when playing our games or communicating with us electronically.
+**Android Infinite** is developed and maintained by us (NAXTU) and whose registered address is Kingston University London, UK. NAXTU are committed to protecting and preserving the privacy of our users, when playing our games or communicating with us electronically.
 
 This policy sets out how we process any personal data we collect from you or that you provide to us through the application. We confirm that we will keep your information secure and that we will comply fully with all applicable Data Protection legislation and regulations. Please read the following carefully to understand what happens to personal data that you choose to provide to us, or that we collect from you when you play **Android Infinite**. By playing **Android Infinite** you are accepting and consenting to the practices described in this policy.
 
