@@ -23,7 +23,7 @@ These third party services may track, store, use, or share data as described in 
 
 ## Your rights – access to your personal data
 
-You have the right to ensure that your personal data is being processed lawfully (“Subject Access Right”). Your subject access right can be exercised in accordance with data protection laws and regulations. Any subject access request must be made in writing to luca.anescu1@gmail.com. We will provide your personal data to you within the statutory time frames. To enable us to trace any of your personal data that we may be holding, we may need to request further information from you. If you have a complaint about how we have used your information, you have the right to complain to the Information Commissioner’s Office (ICO).
+You have the right to ensure that your personal data is being processed lawfully (“Subject Access Right”). Your subject access right can be exercised in accordance with data protection laws and regulations. Any subject access request must be made in writing to [luca.anescu1@gmail.com](mailto:luca.anescu1@gmail.com). We will provide your personal data to you within the statutory time frames. To enable us to trace any of your personal data that we may be holding, we may need to request further information from you. If you have a complaint about how we have used your information, you have the right to complain to the Information Commissioner’s Office (ICO).
 
 ## Disclosure of your information
 
@@ -39,10 +39,8 @@ Unfortunately, the transmission of information via the internet is not completel
 Any changes we may make to our privacy policy in the future will be posted on this page. Please check back frequently to see any updates or changes to our privacy policy.
 
 ## Contact
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Calin L Anescu, and to the following email address: luca.anescu1@gmail.com.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Calin L Anescu, and to the following email address: [luca.anescu1@gmail.com](mailto:luca.anescu1@gmail.com).
 
 ---
 
 [Home](../) ⮥
-
-https://support.google.com/analytics/answer/6004245
